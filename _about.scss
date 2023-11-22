@@ -2,12 +2,13 @@
 
 /* About Section */
 .about {
-    padding: 1rem;
+    padding: 2rem;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     text-align: justify;
     margin: 0.625rem 0.625rem;
+    align-items: center;
 
     &__title {
         font-family: $font-headers;
@@ -53,7 +54,7 @@
             grid-area: text;
             align-self: center;
             margin-bottom: 2rem;
-            font-size: 0.8rem;
+            font-size: 2rem;
         }
 
         &__image {

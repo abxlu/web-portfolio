@@ -1,7 +1,7 @@
 @use "./variables" as *;
 
 /* Portfolio Section */
-.portfolio {
+.project {
     padding: 1rem;
 
     &__figure {
@@ -81,7 +81,7 @@
 /* Media Query for tablet screen */
 @media screen and (min-width: 768px) {
 
-    .portfolio {
+    .project {
         padding: 1rem;
 
         &__project {
@@ -110,7 +110,7 @@
 /* Media Query for laptop screen */
 @media screen and (min-width: 1024px) {
 
-    .portfolio {
+    .project {
         padding: 1rem;
 
         &__project {
@@ -143,7 +143,7 @@
 /* Media Query for desktop screen */
 @media screen and (min-width: 1440px) {
 
-    .portfolio {
+    .project{
         padding: 1rem;
 
         &__project {
