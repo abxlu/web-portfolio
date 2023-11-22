@@ -252,3 +252,16 @@
   }/*# sourceMappingURL=main.css.map */
 
 /*# sourceMappingURL=main.css.map */
+
+
+/*   &__dropbtn {
+    background-color: $color-background-primary;
+      color: black;
+      padding: 16px;
+      border: 0;
+      margin-left: auto;
+      &--icon{
+        max-height: 30px;
+        max-width: 25px;
+      }
+    }
